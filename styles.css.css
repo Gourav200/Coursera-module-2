@@ -6,13 +6,17 @@
 
 h1 {
 	font-family: Brushstroke, fantasy;
-	color: #000000;
+	color: #A52A2A;
 	text-align: center;
+	text-decoration: underline;
+	font-style: italic;
+	font-weight: 560px;
 }
 
 body {
-	background-image: url("background.jpg");
-	background-color: #FEF5CA;
+	margin:0;
+	padding:0;
+	background-color: #33ccff ;
 
 }
 
